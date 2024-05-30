@@ -1,0 +1,17 @@
+Type-Casting : 
+    In Java, type casting is a method or process that converts a data type 
+      into another data type in both ways manually and automatically.
+    The automatic conversion is done by the compiler and manual conversion 
+      performed by the programmer.
+      
+  Defination-Convert a value from one data type to another data type is known as 
+             type casting.
+   
+  Types of Type Casting-
+      1)Implicit Conversion-Converting a lower data type into a higher one is called
+                            Implicit Conversion.
+           byte -> short -> char -> int -> long -> float -> double  
+           
+      2)Explicit Conversion- Converting a higher data type into a lower one is called 
+      						Explicit Conversion.
+        double -> float -> long -> int -> char -> short -> byte                     
